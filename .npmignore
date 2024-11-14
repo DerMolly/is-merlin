@@ -1,5 +1,5 @@
 .idea
-.eslintrc.json
+eslint.config.mjs
 jest.config.json
 *.license
 *.spec.*

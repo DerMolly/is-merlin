@@ -1,0 +1,38 @@
+# SPDX-FileCopyrightText: 2024 Philip Molares
+#
+# SPDX-License-Identifier: CC0-1.0
+
+version = 1
+SPDX-PackageName = "is-merlin"
+SPDX-PackageSupplier = "Philip Molares"
+SPDX-PackageDownloadLocation = "https://github.com/DerMolly/is-merlin"
+
+[[annotations]]
+path = ".yarn/unplugged/**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2016-present, Yarn Contributors"
+SPDX-License-Identifier = "BSD-2-Clause"
+
+[[annotations]]
+path = ".yarn/install-state.gz"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2016-present, Yarn Contributors"
+SPDX-License-Identifier = "BSD-2-Clause"
+
+[[annotations]]
+path = ".pnp.cjs"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2024 Philip Molares"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = ".pnp.loader.mjs"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2024 Philip Molares"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = ".idea/**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2024 Philip Molares"
+SPDX-License-Identifier = "CC0-1.0"

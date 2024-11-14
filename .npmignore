@@ -1,0 +1,8 @@
+.idea
+.eslintrc.json
+jest.config.json
+*.license
+*.spec.*
+tsconfig.*
+renovate.json
+build.sh
